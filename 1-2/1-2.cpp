@@ -1,6 +1,6 @@
 //Implement a function void reverse(char* str) in C or C++ which reverses a null-terminated string.
 
-//tack or in place swaps
+//Stack or in place swaps
 //Stack: n extra space, O(2n)
 //Swaps: one char of extra space, O(1.5n)
 
